@@ -11,5 +11,5 @@ PUBLIC_KEY_PATH ADD FULL PATH IN VARIABLES.TF->
 6. Define variables.tf and config.tf files. 
 7. Run - terraform init 
 8. Define other necessary files. 
-9. Create Key pair ->    ssh-keygen -f oregon-region-key-pair 
+9. Create Key pair ->    ssh-keygen -f key-pair 
 
